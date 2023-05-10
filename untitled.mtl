@@ -1,0 +1,17 @@
+newmtl White
+Kd 1 1 1
+Ns 96.0784
+Ka 0 0 0
+Ks 0 0 0
+d 1.0
+illum 1
+
+newmtl image0
+Kd 1 1 1
+Ns 96.0784
+Ka 0 0 0
+Ks 1 1 1
+d 1.0
+illum 1
+map_Kd image0.png
+
